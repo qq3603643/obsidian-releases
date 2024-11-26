@@ -14231,18 +14231,18 @@
    "repo": "prashanthpulisetti/password-audit"
   },
   {
-    "id": "iweaver-sync",
-    "name": "iWeaver Sync",
-    "author": "iweaver@iweaver.ai",
-    "description": "Sync the iWeaver site knowledge base to this note-taking software",
-    "repo": "iWeaverAI-Org/obsidian-iweaver"
-  },
-	{
     "id": "obsnippets",
     "name": "Snippetsaurus",
     "author": "Christian Humbert",
     "description": "Create and managing text and code snippets.",
     "repo": "Chrstn67/obsidian-plugin-obsnippets"
+  },
+  {
+    "id": "iweaver-sync",
+    "name": "iWeaver Sync",
+    "author": "iweaver@iweaver.ai",
+    "description": "Sync the iWeaver site knowledge base to this note-taking software",
+    "repo": "iWeaverAI-Org/obsidian-iweaver"
   }
-
+  
 ]
