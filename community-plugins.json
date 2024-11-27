@@ -14230,7 +14230,7 @@
    "description": "A plugin to audit passwords for strength and breaches, and generate secure passwords.",
    "repo": "prashanthpulisetti/password-audit"
   },
-  {
+	 {
     "id": "obsnippets",
     "name": "Snippetsaurus",
     "author": "Christian Humbert",
